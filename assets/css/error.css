@@ -1,0 +1,12 @@
+.content-error {
+    height: 90vh;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: center !important;
+    align-items: center !important;
+}
+
+.text-error {
+    text-align: center;
+}
